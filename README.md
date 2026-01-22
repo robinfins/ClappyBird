@@ -77,7 +77,3 @@ This project demonstrates:
 
 **Robin**
 - GitHub: [@robinfins](https://github.com/robinfins)
-
----
-
-*Built with Unity as an exploration of 2D game development and physics programming.*
